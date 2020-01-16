@@ -30,7 +30,7 @@ In `graphical_version` we have added some graphical elements to the game, to pre
   
 
 ## CONTRIBUTION :writing_hand:
-Me :raising_hand_man: and The Bois :frowning_man::pouting_man: (one of them being @DeepanshuJain29) created this game in our High School as our Python Project.
+Me :raising_hand_man: and The Bois :frowning_man::pouting_man: (one of them being [@DeepanshuJain29](https://github.com/DeepanshuJain29)) created this game in our High School as our Python Project.
 
 ### CONTRIBUTE :handshake:
 ---
